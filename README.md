@@ -2,6 +2,10 @@
 
 This project compares traditional machine learning and transformer models for classifying English and Hindi news articles as fake or real. I developed it as part of my MSc Business Analytics dissertation at Aston University.
 
+# Note
+
+The dataset is huge and hence it uploaded as zip. Please follow this link "sha256:b9614b17aaa570bbf1158cf4041381980385e7130e7f98ca3148929403544556" to access the dataset. Dataset Source - Kaggle
+
 ## Approach
 
 - Cleaned and explored a combined English and Hindi news dataset, removing duplicate records and identical texts with conflicting labels.
